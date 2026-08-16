@@ -1,2 +1,4 @@
-# ApiTesting
-i use this repository to test http/file requests
+# FakePlr's Funnies
+A collection of "skripts" for [Skript](https://modrinth.com/plugin/skript)
+
+### To do: updater using [Skent](https://github.com/Olyno/skent)
